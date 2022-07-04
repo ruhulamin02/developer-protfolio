@@ -1,0 +1,43 @@
+.name {
+    color: cornflowerblue;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.LB {
+    text-decoration: none;
+    background-color: cornflowerblue;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+section {
+    display: flex;
+}
+
+.hw {
+    width: 50%;
+    padding-left: 2%;
+    padding-top: 3%;
+}
+
+.hw img {
+    width: 40%;
+
+
+
+}
+
+.tb {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
