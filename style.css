@@ -41,3 +41,20 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.dream-big {
+    display: flex;
+}
+
+.j {
+    width: 70%;
+}
+
+#d {
+    background-color: red;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+
+}
